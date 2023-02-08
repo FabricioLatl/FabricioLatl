@@ -4,6 +4,6 @@ I'm a Front end Web Developer, Proficient in JS, CSS5, Tailwind CSS and React.
 You can see some of my projects on my profile, as well as some work from my Uni stored here.
 
 
-Thank you for stopping by :D
-Love
+Thank you for stopping by :D             
+
 Fabricio.
