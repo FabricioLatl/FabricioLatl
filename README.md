@@ -1,1 +1,1 @@
-member of the last generation of developers that learned without AI 
+Member of the last generation of developers that learned to code without LLMs 
